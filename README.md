@@ -14,5 +14,4 @@ This project showcases my progress and learning journey in mobile app design usi
 * (أضيفي هنا أي ميزة تعلمتيها، مثل: التنقل بين الصفحات Navigation، أو استخدام الـ Widgets المخصصة).
 * (أضيفي نقطة أخرى هنا).
 
-## 📸 لقطات من التطبيق (Screenshots)
-*(يمكنك لاحقاً إضافة صور لواجهات التطبيق هنا لتوضيح تطورك في التصميم)*
+# My Project
