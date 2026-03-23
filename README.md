@@ -1,5 +1,4 @@
-# [Your App Name]
-
+# Flutter Lean
 ## 📖 About The Project
 
 This project documents my journey and progress in learning how to design and build mobile applications using the **Flutter** framework. Through it, I aim to practically apply the concepts I am learning and improve my skills in building interactive and attractive user interfaces (UI). 
