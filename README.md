@@ -16,5 +16,5 @@ This project documents my journey and progress in learning how to design and bui
   
 ## 📫Project 
 #### 1. [**GameChoose**](https://github.com/hak553/GameChoose)
-### description
+### -description
 * "Game Choose" is a fun and fast-paced trivia game designed to test your general knowledge. In each round, a statement appears on the screen (for example: "An elephant can fly"). Your goal is to decide if the statement is correct or incorrect by pressing "Yes" or "No". Every correct choice earns you a point!
