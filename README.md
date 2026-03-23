@@ -1,17 +1,16 @@
-# 📱 عنوان التطبيق الخاص بك (Your App Name)
+# [Your App Name]
 
-## 📖 عن المشروع (About The Project)
-هذا المشروع هو توثيق لرحلتي وتطوري في تعلم تصميم وبناء تطبيقات الهاتف المحمول باستخدام إطار العمل **Flutter**. أهدف من خلاله إلى التطبيق العملي للمفاهيم التي أتعلمها، وتحسين مهاراتي في بناء واجهات مستخدم (UI) تفاعلية وجذابة.
+## 📖 About The Project
 
-This project showcases my progress and learning journey in mobile app design using **Flutter**. It serves as a practical implementation of the concepts I am currently learning to build responsive and beautiful user interfaces.
+This project documents my journey and progress in learning how to design and build mobile applications using the **Flutter** framework. Through it, I aim to practically apply the concepts I am learning and improve my skills in building interactive and attractive user interfaces (UI). 
 
-## 🚀 التقنيات المستخدمة (Built With)
+## 🚀 Built With
+
 * [Flutter](https://flutter.dev/)
 * [Dart](https://dart.dev/)
 
-## 📈 ما تعلمته في هذا المشروع (What I Learned)
-* تصميم واجهات مستخدم مريحة للعين.
-* (أضيفي هنا أي ميزة تعلمتيها، مثل: التنقل بين الصفحات Navigation، أو استخدام الـ Widgets المخصصة).
-* (أضيفي نقطة أخرى هنا).
+## 📈 What I Learned
 
-# My Project
+* Designing eye-friendly user interfaces.
+* *(Add any feature you learned here, such as: Navigation between pages, or using custom Widgets).*
+* *(Add another point here).*
